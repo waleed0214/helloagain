@@ -26,7 +26,7 @@ This project automates the process of editing a customer's first name in the **H
 
 ---
 
-## ⚠️ Notes
+## Notes
 - The app must be installed on the device before running the test.
 - Ensure the user is logged in and on the correct screen context (noReset: true).
 - UI elements may vary by screen size or app version — adjust selectors if needed.
