@@ -1,5 +1,4 @@
 ## User Profile Edit Test
-
 Automated test case for verifying user profile editing functionality.
 
 ### Features
@@ -11,3 +10,6 @@ Includes verification steps
 Appium 2.0+
 Java 11
 Android SDK
+
+### Mobile Device
+Samsung S22 Real Device
